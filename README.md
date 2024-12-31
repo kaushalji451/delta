@@ -1,2 +1,2 @@
 # delta
-this is first delta class
+this is first delta class.
